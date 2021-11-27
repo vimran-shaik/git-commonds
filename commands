@@ -10,5 +10,6 @@ Following are the frequently using git commands,
 * git push -u origin master
 * git clone <link of the github>
 * git remote -v
-* git pull <github link>
+* git pull <github link> / git pull origin master
+
 
