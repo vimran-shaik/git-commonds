@@ -11,5 +11,5 @@ Following are the frequently using git commands,
 * git clone <link of the github>
 * git remote -v
 * git pull <github link> / git pull origin master
-
+* git logs
 
