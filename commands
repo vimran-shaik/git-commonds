@@ -6,7 +6,9 @@ Following are the frequently using git commands,
 * git commit -m "message"
 * git commit -a -m "message"
 * git config -global
-* git remote add origin "git account link"
+* git remote add origin <github account link>
 * git push -u origin master
-
+* git clone <link of the github>
+* git remote -v
+* git pull <github link>
 
