@@ -1,2 +1,12 @@
 Following are the frequently using git commands,
+* git --version
+* git init
+* git add
+* git status
+* git commit -m "message"
+* git commit -a -m "message"
+* git config -global
+* git remote add origin "git account link"
+* git push -u origin master
+
 
