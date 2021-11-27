@@ -18,4 +18,6 @@ Following are the frequently using git commands,
 * git merge <branch name>
 * git reset --merge
 * vi .gitignore (to restrict any file to track)
-
+* git reset <log id>
+* git stash (inorder if we don't want to commit any file)
+* git stash pop
